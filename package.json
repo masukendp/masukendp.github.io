@@ -1,0 +1,12 @@
+{
+  "name": "masukendp",
+  "version": "1.0.0",
+  "repository": "https://github.com/masukenDP/masukendp.github.io",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^3.0.5"
+  },
+  "scripts": {
+    "build:css": "tailwindcss build tailwind.css -o public/style.css"
+  }
+}
