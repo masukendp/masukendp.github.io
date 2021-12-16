@@ -7,6 +7,6 @@
     "tailwindcss": "^3.0.5"
   },
   "scripts": {
-    "build:css": "tailwindcss build tailwind.css -o public/style.css"
+    "build:css": "tailwindcss build tailwind.css -o docs/style.css"
   }
 }
